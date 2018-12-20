@@ -1,13 +1,2 @@
 remote repo created
-hi
-yes
-remote
-local
-hii
-
-
-yeah last commit
-
-
-fff
-hello
+master
