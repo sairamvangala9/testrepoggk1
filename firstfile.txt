@@ -1,15 +1,1 @@
 remote repo created
-hi
-bye
-
-yes
-remote
-local
-hii
-
-
-yeah last commit
-
-
-fff
-hello
