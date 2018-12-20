@@ -4,4 +4,16 @@ bye
 
 yes
 remote
+<<<<<<< HEAD
 
+=======
+local
+hii
+
+
+yeah last commit
+
+
+fff
+hello
+>>>>>>> dev
